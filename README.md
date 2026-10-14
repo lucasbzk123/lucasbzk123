@@ -1,40 +1,42 @@
-# Olá, eu sou o Lucas! 👋
+# Hi, I'm Lucas! 👋
 
-Aqui você encontrará um resumo da minha jornada acadêmica, minhas habilidades técnicas e os projetos que venho desenvolvendo na área de tecnologia.
-
----
-
-### 👤 Sobre Mim
-
-* **Nome:** Lucas Eduardo Bozek
-* **Idade:** 18 anos
-* **Localização:** Almirante Tamandaré - PR
-* **Formação atual:** Estudante do 1º semestre de **Engenharia de Software**
-
-Sou um profissional em início de carreira, movido pelo desejo de evoluir constantemente e focado nos meus objetivos. Atualmente, estou em busca da minha **primeira oportunidade profissional** (Estágio ou Trainee) onde eu possa aplicar meus conhecimentos, aprender com profissionais experientes e contribuir ativamente com a equipe.
+Change language: 
+[![English](https://shields.io)](./README.en.md)
+[![Português](https://shields.io)](./README.md)
 
 ---
 
-### 🛠️ Habilidades Técnicas
+### 👤 About Me
 
-Tenho dedicado meu tempo aos estudos teóricos e práticos, construindo uma base sólida nas seguintes tecnologias:
+* **Name:** Lucas Eduardo Bozek
+* **Age:** 18 years old
+* **Location:** Almirante Tamandaré - PR, Brazil
+* **Current Education:** 1st semester student of **Software Engineering**
 
-* **Desenvolvimento Web:** HTML5 | CSS3 | JavaScript
-* **Lógica e Programação:** Linguagem C
-* **Banco de Dados:** MySQL
-* **Idiomas:** Inglês (Em desenvolvimento)
-
----
-
-### 🚀 Objetivos Profissionais
-
-* 🎯 Conseguir uma vaga de Estágio ou Trainee na área de tecnologia.
-* 💻 Desenvolver projetos práticos e desafiadores.
-* 📈 Evoluir constantemente minhas competências técnicas e comportamentais.
+I am an entry-level professional driven by a desire for continuous growth and highly focused on my goals. I am currently seeking my **first professional opportunity** (Internship or Trainee role) where I can apply my knowledge, learn from experienced professionals, and actively contribute to the team while pursuing my degree.
 
 ---
 
-### 📫 Vamos nos conectar?
+### 🛠️ Technical Skills
 
-* **LinkedIn:** [Seu Nome ou Link do Perfil](https://www.linkedin.com/in/lucas-bozek-2233a8290/edit/intro)
-* **E-mail:** [seu.email@email.com](mailto:lucasebzk1@gmail.com)
+I have been dedicating my time to both theoretical and practical studies, building a solid foundation in the following technologies:
+
+* **Web Development:** HTML5 | CSS3 | JavaScript
+* **Logic & Programming:** C Language
+* **Database:** MySQL
+* **Languages:** English (Intermediate / In development)
+
+---
+
+### 🚀 Career Goals
+
+* 🎯 Secure an Internship or Trainee position in technology.
+* 💻 Develop practical and challenging projects.
+* 📈 Continuously improve my technical and soft skills.
+
+---
+
+### 📫 Let's connect!
+
+* **LinkedIn:**(https://www.linkedin.com/in/lucas-bozek-2233a8290/)
+* **Email:** (mailto:lucasebzk1@gmail.com)
